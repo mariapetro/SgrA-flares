@@ -3,3 +3,4 @@ This repository contains material for reproducing the figures in the publication
 Description of contents:
 1. files.zip --> folders containing numerical models and obs. data 
 2. SgrA*-flares.ipynb --> jupyter notebook
+3. sed-q_var4-new.gif --> animated figure (figure 4 in paper)
